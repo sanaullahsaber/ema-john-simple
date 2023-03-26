@@ -6,7 +6,6 @@ const Header = () => {
   return (
     <nav className="header">
       <img src={logo} alt="" />
-      {/* a*4[href=$]{$}*/}
       <div>
         <a href="/shop">Shop</a>
         <a href="/order">Order</a>
